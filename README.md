@@ -18,8 +18,38 @@ A complete redesign of the UMBC Information Systems Department website featuring
 - **User-Friendly Navigation**: Intuitive menu system with active page indicators
 - **Interactive Elements**: Hover effects, transitions, and engaging visual components
 
+### Wireframe Diagrams
+
+#### Home Page Wireframe
+**Key Components:**
+- Clear navigation header
+- Hero section with call-to-action
+- News/events card grid
+- Quick links section
+- Comprehensive footer
+
+#### Undergraduate Page Wireframe
+**Key Components:**
+- Program overview cards
+- Curriculum table
+- Career path sections
+- Faculty spotlight
+
+#### Contact Page Wireframe
+**Key Components:**
+- Contact information panel
+- Contact form
+- Office hours table
+- Map placeholder
+
 ## 🛠 Technical Implementation
 - **Pure HTML/CSS**: No external dependencies except Font Awesome icons
 - **CSS Variables**: Consistent theming through CSS custom properties
 - **Flexbox/Grid**: Modern layout techniques for optimal content organization
 - **Accessibility**: Semantic HTML structure and proper color contrast
+
+## How to Use:
+1. Clone or download the repository
+2. Open `index.html` in a web browser to view the home page
+3. Navigate between pages using the header menu or quick links
+4. All pages are interconnected and maintain consistent styling
