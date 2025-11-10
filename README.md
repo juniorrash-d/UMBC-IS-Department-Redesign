@@ -1,18 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=UMBC IS-Department Website Redesign!⌨️&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=30"/>
-</p>
+## **UMBC IS-Department Website Redesign!**
+-------------------------------------------------
 
 ## 📋 Project Overview
 A complete redesign of the UMBC Information Systems Department website featuring three fully responsive pages with modern aesthetics and improved user experience.
 
 ---
 
-## 🎯 Pages Included
+##  Pages Included
 - **Home** (`index.html`) - Department overview, news, and quick links
 - **Undergraduate Program** (`undergraduate.html`) - Program details, curriculum, and career paths
 - **Contact Us** (`contact.html`) - Contact information and inquiry form
 
-## 🎨 Design Features
+##  Design Features
 - **Color Scheme**: Refined palette using lighter gold (#ffd966), black, and white
 - **Modern UI**: Clean, professional design with smooth animations and hover effects
 - **Responsive Design**: Fully responsive across all device sizes
